@@ -2,5 +2,5 @@
 
 Used in teaching Git.
 
-More stuff
+More stuff in the readme.
 
