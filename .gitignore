@@ -1,0 +1,8 @@
+passwords.txt
+*.pyc
+
+*.html
+!index.html
+
+# Exclude directory
+build/
