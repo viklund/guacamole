@@ -6,3 +6,8 @@ passwords.txt
 
 # Exclude directory
 build/
+
+# No emacs
+*~
+# No vim
+*.swp
